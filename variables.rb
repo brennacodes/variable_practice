@@ -11,3 +11,7 @@ sisters = 4
 # here are some floats
 temp = 98.6
 savings = 3.50
+
+# here are some booleans
+has_pets = true
+likes_sports = false
