@@ -15,3 +15,8 @@ savings = 3.50
 # here are some booleans
 has_pets = true
 likes_sports = false
+
+# string reassignment
+name = "Bob"
+email = "bob@bobsemail.com"
+city = "Bobtown"
